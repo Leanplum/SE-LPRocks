@@ -1,0 +1,159 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "NVActivityIndicatorViewable"
+provides-nominal:
+- "7LpRocks27NVActivityIndicatorViewableP"
+provides-member:
+- ["7LpRocks27NVActivityIndicatorViewableP", ""]
+- ["7LpRocks27NVActivityIndicatorViewableP", "startAnimating"]
+- ["7LpRocks27NVActivityIndicatorViewableP", "stopAnimating"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "ActivityData"
+- "CGFloat"
+- "CGSize"
+- "Int"
+- !private "NVActivityIndicatorPresenter"
+- "NVActivityIndicatorType"
+- "NVActivityIndicatorViewable"
+- "String"
+- "UIColor"
+- "UIFont"
+- "UIViewController"
+depends-member:
+- !private ["7LpRocks12ActivityDataC", "init"]
+- !private ["s7CVarArgP", "ActivityData"]
+- !private ["s7CVarArgP", "NVActivityIndicatorPresenter"]
+- !private ["s28CustomDebugStringConvertibleP", "ActivityData"]
+- !private ["s28CustomDebugStringConvertibleP", "NVActivityIndicatorPresenter"]
+- !private ["s23CustomStringConvertibleP", "ActivityData"]
+- !private ["s23CustomStringConvertibleP", "NVActivityIndicatorPresenter"]
+- !private ["s9EquatableP", "ActivityData"]
+- !private ["s9EquatableP", "NVActivityIndicatorPresenter"]
+- !private ["s8HashableP", "ActivityData"]
+- !private ["s8HashableP", "NVActivityIndicatorPresenter"]
+- !private ["So8NSCodingP", "ActivityData"]
+- !private ["So8NSCodingP", "NVActivityIndicatorPresenter"]
+- !private ["So26NSExtensionRequestHandlingP", "ActivityData"]
+- !private ["So26NSExtensionRequestHandlingP", "NVActivityIndicatorPresenter"]
+- !private ["So8NSObjectC", "ActivityData"]
+- ["So8NSObjectC", "CGFloat"]
+- ["So8NSObjectC", "CGSize"]
+- ["So8NSObjectC", "Int"]
+- !private ["So8NSObjectC", "NVActivityIndicatorPresenter"]
+- ["So8NSObjectC", "NVActivityIndicatorType"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "UIColor"]
+- ["So8NSObjectC", "UIFont"]
+- !private ["So16NSObjectProtocolP", "ActivityData"]
+- !private ["So16NSObjectProtocolP", "NVActivityIndicatorPresenter"]
+- !private ["7LpRocks28NVActivityIndicatorPresenterC", "sharedInstance"]
+- !private ["7LpRocks28NVActivityIndicatorPresenterC", "startAnimating"]
+- !private ["7LpRocks28NVActivityIndicatorPresenterC", "stopAnimating"]
+- !private ["7LpRocks27NVActivityIndicatorViewableP", "ActivityData"]
+- ["7LpRocks27NVActivityIndicatorViewableP", "CGFloat"]
+- ["7LpRocks27NVActivityIndicatorViewableP", "CGSize"]
+- ["7LpRocks27NVActivityIndicatorViewableP", "Int"]
+- !private ["7LpRocks27NVActivityIndicatorViewableP", "NVActivityIndicatorPresenter"]
+- ["7LpRocks27NVActivityIndicatorViewableP", "NVActivityIndicatorType"]
+- ["7LpRocks27NVActivityIndicatorViewableP", "String"]
+- ["7LpRocks27NVActivityIndicatorViewableP", "UIColor"]
+- ["7LpRocks27NVActivityIndicatorViewableP", "UIFont"]
+- ["7LpRocks27NVActivityIndicatorViewableP", "UIViewController"]
+- ["7LpRocks27NVActivityIndicatorViewableP", "startAnimating"]
+- ["7LpRocks27NVActivityIndicatorViewableP", "stopAnimating"]
+- !private ["So21UIAppearanceContainerP", "ActivityData"]
+- !private ["So21UIAppearanceContainerP", "NVActivityIndicatorPresenter"]
+- !private ["So18UIContentContainerP", "ActivityData"]
+- !private ["So18UIContentContainerP", "NVActivityIndicatorPresenter"]
+- !private ["So18UIFocusEnvironmentP", "ActivityData"]
+- !private ["So18UIFocusEnvironmentP", "NVActivityIndicatorPresenter"]
+- !private ["So30UIPasteConfigurationSupportingP", "ActivityData"]
+- !private ["So30UIPasteConfigurationSupportingP", "NVActivityIndicatorPresenter"]
+- !private ["So11UIResponderC", "ActivityData"]
+- ["So11UIResponderC", "CGFloat"]
+- ["So11UIResponderC", "CGSize"]
+- ["So11UIResponderC", "Int"]
+- !private ["So11UIResponderC", "NVActivityIndicatorPresenter"]
+- ["So11UIResponderC", "NVActivityIndicatorType"]
+- ["So11UIResponderC", "String"]
+- ["So11UIResponderC", "UIColor"]
+- ["So11UIResponderC", "UIFont"]
+- !private ["So30UIResponderStandardEditActionsP", "ActivityData"]
+- !private ["So30UIResponderStandardEditActionsP", "NVActivityIndicatorPresenter"]
+- !private ["So16UIStateRestoringP", "ActivityData"]
+- !private ["So16UIStateRestoringP", "NVActivityIndicatorPresenter"]
+- !private ["So18UITraitEnvironmentP", "ActivityData"]
+- !private ["So18UITraitEnvironmentP", "NVActivityIndicatorPresenter"]
+- !private ["So16UIViewControllerC", "ActivityData"]
+- ["So16UIViewControllerC", "CGFloat"]
+- ["So16UIViewControllerC", "CGSize"]
+- ["So16UIViewControllerC", "Int"]
+- !private ["So16UIViewControllerC", "NVActivityIndicatorPresenter"]
+- ["So16UIViewControllerC", "NVActivityIndicatorType"]
+- ["So16UIViewControllerC", "String"]
+- ["So16UIViewControllerC", "UIColor"]
+- ["So16UIViewControllerC", "UIFont"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ActivityData"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NVActivityIndicatorPresenter"]
+depends-nominal:
+- !private "7LpRocks12ActivityDataC"
+- !private "s7CVarArgP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9EquatableP"
+- !private "s8HashableP"
+- !private "So8NSCodingP"
+- !private "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "7LpRocks28NVActivityIndicatorPresenterC"
+- "7LpRocks27NVActivityIndicatorViewableP"
+- !private "So21UIAppearanceContainerP"
+- !private "So18UIContentContainerP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So16UIStateRestoringP"
+- !private "So18UITraitEnvironmentP"
+- "So16UIViewControllerC"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/triggullberg/Desktop/LpRocks/Pods/Leanplum-iOS-SDK/Leanplum.framework/Headers/Leanplum.h"
+- "/Users/triggullberg/Desktop/LpRocks/Pods/Leanplum-iOS-UIEditor/LeanplumUIEditor.framework/Headers/LeanplumUIEditor.h"
+- "/Users/triggullberg/Desktop/LpRocks/Pods/Leanplum-iOS-SDK/Leanplum.framework/Headers/LPInbox.h"
+- "/Users/triggullberg/Desktop/LpRocks/Pods/Leanplum-iOS-SDK/Leanplum.framework/Modules/module.modulemap"
+- "/Users/triggullberg/Desktop/LpRocks/Pods/Leanplum-iOS-UIEditor/LeanplumUIEditor.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/AdSupport.framework/Headers/AdSupport.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+interface-hash: "8dd3124eee16223a9dad0d41b5914a07"

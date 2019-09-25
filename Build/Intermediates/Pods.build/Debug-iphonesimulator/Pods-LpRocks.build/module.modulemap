@@ -1,0 +1,6 @@
+framework module Pods_LpRocks {
+  umbrella header "Pods-LpRocks-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "47cf2dc0006ad9f4fc1a1f2f6fe4b28b"
+build_time: [1519110073, 167100000]
+inputs:
+  "/Users/triggullberg/dev/my-se-apps/LpRocks/LpRocks/LpRocks/MainViewController.swift": [1518289058, 0]
+  "/Users/triggullberg/dev/my-se-apps/LpRocks/LpRocks/LpRocks/AppDelegate.swift": [1517717187, 0]
